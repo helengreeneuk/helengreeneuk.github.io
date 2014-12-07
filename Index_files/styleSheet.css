@@ -203,8 +203,8 @@ and (max-device-width : 568px) {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: .65em;
-  font-weight: 600;
+  font-size: .85em;
+  font-weight: 400;
 }
 
 @media only screen 
