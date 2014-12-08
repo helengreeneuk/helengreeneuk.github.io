@@ -3,7 +3,7 @@ body {
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
-  background-color: #f8f8f8;
+  background-color: #e5e5e6;
   color: #666;
   font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', 'Ideal Sans', 'Sans Serif';
   font-weight: 300;
@@ -28,11 +28,13 @@ a:visited {
   height: 768px;
   max-width: 1024px;
   min-width: 840px;
-  background-image: url('../images/background@2x.jpg');
-  background-size: 1024px 800px;
+  background-image: url('../images/DancingWoman.png');
+  background-size: contain;
   margin-right: auto;
   background-repeat: no-repeat;
   overflow: hidden;
+  background-color: #e5e5e6;
+  margin: 0 auto;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
