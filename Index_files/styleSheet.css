@@ -39,7 +39,7 @@ a:visited {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
   #bigBox {
-    background-image: url('../images/DancingWoman.png');
+    background-image: url('../images/DancingWoman.jpg');
     text-align: center;
   }
 
