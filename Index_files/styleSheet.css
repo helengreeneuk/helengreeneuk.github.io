@@ -28,7 +28,7 @@ a:visited {
   height: 768px;
   max-width: 1024px;
   min-width: 840px;
-  background-image: url('../images/DancingWoman.jpg');
+  background-image: url('../images/DancingWoman.png');
   background-size: contain;
   margin-right: auto;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@ a:visited {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
   #bigBox {
-    background-image: url('../images/DancingWoman.jpg');
+    background-image: url('../images/DancingWoman.png');
     text-align: center;
   }
 
