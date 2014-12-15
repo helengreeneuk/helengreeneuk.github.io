@@ -1,0 +1,158 @@
+@charset "UTF-8";
+body {
+	font-family: open-sans;
+	font-style: normal;
+	font-weight: 300;
+	background-color: #e5e5e6;
+	background-image: url(images/DancingGirl.png);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: -0% 0%;
+	background-clip: padding-box;
+	background-repeat: no-repeat;
+	background-origin: padding-box;
+	margin-top: 0%;
+	margin-right: 0%;
+	margin-bottom: 0%;
+	margin-left: 0%;
+	min-width: 40%;
+}
+header {
+	text-align: center;
+}
+nav {
+	margin-top: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	margin-left: 5%;
+	padding-top: 0%;
+	padding-bottom: 0%;
+	text-align: center;
+	padding-left: 0%;
+	padding-right: 0%;
+	font-size: large;
+	color: #ACACAC;
+}
+
+@keyframes animateDancingGirlOut {
+	from { background-position: 0 0; }
+	to { background-position: 0% 50; }
+}
+
+@keyframes animateDancingGirlIn {
+	from { background-position: 0 50; }
+	to { background-position: 0% 0; }
+}
+
+a {
+	margin-left: 2%;
+	margin-right: 2%;
+	text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+	word-spacing: normal;
+	-webkit-transition: all 0.2s ease 0s;
+	-o-transition: all 0.2s ease 0s;
+	transition: all 0.2s ease 0s;
+}
+a:hover {
+	color: #FF2C2F;
+}
+.rightColumn {
+	width: 60%;
+	margin-top: 10%;
+	margin-right: 1%;
+	margin-bottom: 2.5%;
+	margin-left: 2.5%;
+	padding-top: 2.5%;
+	padding-right: 2.5%;
+	padding-bottom: 2.5%;
+	padding-left: 2.5%;
+	float: right;
+	color: #FFFEFE;
+	min-width: 0px;
+	height: 100%;
+	font-family: open-sans;
+	font-style: normal;
+	font-weight: 300;
+	text-indent: 0px;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+	vertical-align: baseline;
+}
+.navSelection {
+	margin-top: 4%;
+	margin-right: 4%;
+	margin-bottom: 4%;
+	margin-left: 4%;
+}
+.twitterWrapper {
+	width: 25%;
+	height: 100%;
+	margin-top: 10%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-bottom: 2.5%;
+	float: right;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.navSelection {
+}
+.contactForm {
+	margin-top: 15%;
+	margin-right: 0%;
+	margin-bottom: 2.5%;
+	margin-left: 33%;
+	padding-top: 0%;
+	padding-right: 10%;
+	padding-bottom: 0%;
+	padding-left: 0%;
+	float: left;
+	width: 45%;
+	height: 100%;
+	/* [disabled]background-color: #FEFEFE; */
+	border-top-width: 50px;
+	color: #FFFFFF;
+}
+.email {
+	color: #FFFFFF;
+	font-weight: normal;
+}
+table {
+	margin-top: 0%;
+	margin-right: 10%;
+	margin-bottom: 0%;
+	margin-left: 35%;
+	padding-top: 0px;
+	width: 55%;
+	color: #FFFFFF;
+}
+.tableTitle {
+	margin-top: 0%;
+	margin-left: 35%;
+	padding-top: 0%;
+	margin-right: 10%;
+	color: #F8F8F8;
+}
+.tableSection {
+	margin-top: 20%;
+	height: 100%;
+	width: 100%;
+	margin-bottom: 5%;
+}
+.classTable {
+}
+.subTitle {
+	font-weight: 900;
+	padding-left: 2.5%;
+}
+.container{
+	min-width:930px;	
+}
+.tableField {
+	width: 50%;
+}
+.contactItem {
+	padding-left: 2%;
+}
