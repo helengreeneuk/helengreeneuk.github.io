@@ -156,3 +156,29 @@ table {
 .contactItem {
 	padding-left: 2%;
 }
+.leftShineLogoColumn {
+	width: 415px;
+	height: auto;
+	padding-top: 30px;
+	padding-bottom: 0px;
+}
+.companyLogoMainTitle {
+	text-align: center;
+	font-family: comfortaa;
+	font-style: normal;
+	font-weight: 300;
+	color: #FFFFFF;
+	font-size: 5em;
+	margin-left: 180px;
+}
+.companyLogoSubTitle {
+	font-family: comfortaa;
+	font-style: normal;
+	font-weight: 300;
+	color: #626262;
+	text-align: center;
+	font-size: 2em;
+	margin-left: 180px;
+	margin-bottom: 60px;
+	margin-top: 0px;
+}
