@@ -4,7 +4,7 @@ body {
 	font-style: normal;
 	font-weight: 300;
 	background-color: #e5e5e6;
-	background-image: url(images/DancingGirl.png);
+	background-image: url(images/DancingGirl.svg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: -0% 0%;
@@ -60,7 +60,7 @@ a:hover {
 }
 .rightColumn {
 	width: 60%;
-	margin-top: 10%;
+	margin-top: 20%;
 	margin-right: 1%;
 	margin-bottom: 2.5%;
 	margin-left: 2.5%;
