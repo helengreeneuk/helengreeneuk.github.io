@@ -4950,6 +4950,6 @@ XwEGAOhZ/2pW5iDfAAAAAElFTkSuQmCC" transform="matrix(0.24 0 0 0.24 106.2334 41.88
 		</g>
 	</g>
 </g>
-<text transform="matrix(1.0138 0 0 1 71.3145 112.6086)"><tspan x="0" y="0" fill="#FFFFFF" font-family="aaarghnormal" font-size="21">Shine</tspan></text>
-<text transform="matrix(1 0 0 1 66 124.6953)" fill="#46494A" font-family="aaarghnormal" font-size="10">Dance School</text>
+<text transform="matrix(1.0138 0 0 1 71.3145 112.6086)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'aaarghnormal'" font-size="21">Shine</tspan></text>
+<text transform="matrix(1 0 0 1 66 124.6953)" fill="#46494A" font-family="'aaarghnormal'" font-size="10">Dance School</text>
 </svg>
