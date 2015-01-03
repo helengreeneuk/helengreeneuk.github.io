@@ -17,6 +17,11 @@ body {
 	margin-left: 0%;
 	min-width: 40%;
 }
+.venue {
+	color: #D7EBE8;
+	text-decoration: underline;
+	font-size: small;
+}
 header {
 	text-align: center;
 }
