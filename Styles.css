@@ -4,7 +4,7 @@ body {
 	font-style: normal;
 	font-weight: 300;
 	background-color: #e5e5e6;
-	background-image: url(images/DancingGirl.svg);
+	background-image: url(images/DancingGirl.svgz);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: -0% 0%;
@@ -148,7 +148,7 @@ table {
 	padding-left: 2.5%;
 }
 .container{
-	min-width:930px;	
+	min-width:430px;	
 }
 .tableField {
 	width: 50%;
@@ -161,6 +161,23 @@ table {
 	height: auto;
 	padding-top: 30px;
 	padding-bottom: 0px;
+}
+
+.companytitlecontainer {
+	margin-top: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	margin-left: 5%;
+	padding-top: 0%;
+	padding-bottom: 0%;
+	text-align: center;
+	padding-left: 0%;
+	padding-right: 0%;
+	font-size: large;
+	color: #ACACAC;
+	font-family: bubbler-one;
+	font-style: normal;
+	font-weight: 400;
 }
 .companyLogoMainTitle {
 	text-align: center;
